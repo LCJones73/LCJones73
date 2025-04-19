@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
   ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake.svg)
   
-</div>div>
+</div>
 
 ## 🤳 Connect With Me
 
