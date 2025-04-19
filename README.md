@@ -1,10 +1,12 @@
-# <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/">Leonard C. Jones III</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/">Leonard C. Jones</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-<a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/">Cyberiion Sentry</a>
+# <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/">Cyberiion Sentry</a>
 
-This site showcases my interest in technology and provides a space to share what I'm learning in the field of cybersecurity.
+This site showcases my interest in technology and provides a space to share what I'm learning in the field of cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
+
+<br><br>
 
 ## ⚠️ Vulnerability Management Projects
 
