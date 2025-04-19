@@ -14,6 +14,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+<div align="center">
+
+  ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake.svg)
+  
+</div>div>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
