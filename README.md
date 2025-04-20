@@ -36,6 +36,7 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 
 <br>
 
+## _My Skills:_
 
 <div align="center">
 
