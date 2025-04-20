@@ -41,14 +41,6 @@ This site showcases my interest in technology and provides a space to share what
   ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake.svg)
   
 </div>
-
-## :calling: Connect With Me
-
-[<img align="left" alt="___________ | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/leonard-jones-2a2b852a
-[youtube]: https://www.youtube.com/@im4u73
   
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
