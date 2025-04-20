@@ -6,11 +6,17 @@
   I also love <b>Technology</b> as a creative outlet and listening to podcasts like CyberWire Daily and Darknet Diaries
 </p>
 
+![Static Badge](https://img.shields.io/badge/Wix-My%20BLog-green)
+![Static Badge](https://img.shields.io/badge/YouTube-My%20VLog-red)
+![Static Badge](https://img.shields.io/badge/Resume-Portfolio-blue)
+
+
 # <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/">Leonard C. Jones</a>'s IT and Cybersecurity Project Portfolio :blue_book:
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-# :large_blue_diamond: <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/">CyberIIon Sentry</a> :large_blue_diamond:
+# :large_blue_diamond: <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/CyberIIon-Sentry-blue?style=for-the-badge"> :large_blue_diamond:
+</a>
 
 This site showcases my interest in technology and provides a space to share what I'm learning in the field of cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
 
