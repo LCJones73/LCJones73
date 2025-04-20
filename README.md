@@ -32,7 +32,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/CyberIIon-Sentry-blue?style=for-the-badge">
 </a></p>
 
-This site showcases my interest in technology and provides a space to share what I'm learning in the field of cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
+This is __My Site__ which showcases my interest in technology and provides a space to share what I'm learning in the field of cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
 
 <br>
 
