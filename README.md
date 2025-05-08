@@ -49,7 +49,9 @@ This is __My Site__ which showcases my interest in technology and provides a spa
   
 </div>
 
-![CyberIIonSentryBLACK-ezgif com-crop](https://github.com/user-attachments/assets/eb5258c7-3206-41a8-b806-1522e14c978d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb5258c7-3206-41a8-b806-1522e14c978d" alt="Description" width="400"/>
+</p>
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
