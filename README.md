@@ -16,18 +16,22 @@
 
 <H1 align="center">My IT and Cybersecurity Project Portfolio</H1>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!<BR><BR>
 
-## ⚠️ Vulnerability Management Projects
+![Vulnerability Management Projects](https://img.shields.io/badge/Vulnerability_Management_Projects-active-brightgreen)
 
-- **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**
+- **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**<BR><BR>
+ 
+<!-- Code below for when I complete these projects - remove the symbols before and at end of code -->
+<!-- This is a hidden note or comment in Markdown - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**<BR><BR> -->
 
-## 🚨 Threat Hunting and Security Operations Main Internship Project
+![Threat Hunting & Security Operations](https://img.shields.io/badge/Threat_Hunting_&_Security_Operations_Main_Internship_Project-active-red)
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)**
+- ## Coming Soon!
 
-## :closed_book: Additional Threat Hunting Scenario Projects
+<!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)** -->
+
+![Threat Hunting & Security Operations](https://img.shields.io/badge/Additional_Threat_Hunting_Scenario_Projects_Project-active-red)
 
 - **[Threat Hunting Scenario 1: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunt-Scenario-1)**
 
