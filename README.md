@@ -66,6 +66,9 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
+### _My Certifications:_
+![Static Badge](https://img.shields.io/badge/Network+-%23E34F26?style=for-the-badge&logo=comptia&logoColor=white)
+
 <div align="center">
 
   ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake-dark.svg?short_path=1fa939f)
