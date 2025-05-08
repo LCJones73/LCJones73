@@ -45,7 +45,7 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 
 <div align="center">
 
-  ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake.svg)
+  ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake-dark.svg?short_path=1fa939f)
   
 </div>
 
