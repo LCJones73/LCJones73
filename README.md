@@ -50,6 +50,7 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 
 ### _My Certifications:_
 ![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ISC2_CC-%23468145?style=for-the-badge&logo=isc2&logoColor=black)
 
 ### _My Skills:_
 ![Static Badge](https://img.shields.io/badge/MS%20Azure-blue?style=for-the-badge)
