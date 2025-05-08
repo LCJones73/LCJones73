@@ -44,6 +44,9 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 
 <br>
 
+### _My Certifications:_
+![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)
+
 ### _My Skills:_
 ![Static Badge](https://img.shields.io/badge/MS%20Azure-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MS%20Sentinal-lightblue?style=for-the-badge)
@@ -65,9 +68,6 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 ![Static Badge](https://img.shields.io/badge/Wix-%230C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-
-### _My Certifications:_
-![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)
 
 <div align="center">
 
