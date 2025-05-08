@@ -23,7 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**
 
-## 🚨 Threat Hunting and Security Operations Projects
+## 🚨 Threat Hunting and Security Operations Main Internship Project
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)**
 
