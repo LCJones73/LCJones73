@@ -46,7 +46,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <a href="https://im4u73.wixsite.com/cyberiion-sentry" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/CyberIIon-Sentry-blue?style=for-the-badge">
 </a></p>
 
-This is __My Site__ which showcases my interest in technology and provides a space to share what I'm learning in the field of cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
+_CyberIIon Sentry_ is my website which showcases my interest in technology and provides a space to share what I'm learning in the field of Cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
 
 ### _My Certifications:_
 ![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)
