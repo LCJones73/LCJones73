@@ -27,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Threat_Hunting_&_Security_Operations_Main_Internship_Project-active-red)
 
-- ## Coming Soon!
+- ### Coming Soon!
 
 <!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)** -->
 
