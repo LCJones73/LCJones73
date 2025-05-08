@@ -31,7 +31,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)** -->
 
-![Threat Hunting & Security Operations](https://img.shields.io/badge/Additional_Threat_Hunting_Scenario_Projects_Project-active-red)
+![Threat Hunting & Security Operations](https://img.shields.io/badge/Additional_Threat_Hunting_Scenario_Projects-active-red)
 
 - **[Threat Hunting Scenario 1: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunt-Scenario-1)**
 
