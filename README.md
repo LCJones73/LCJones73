@@ -27,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)**
 
-## :closed_book: Additional Threat Hunting and Scenario Projects
+## :closed_book: Additional Threat Hunting Scenario Projects
 
 <hr/>
 <p align="center">
