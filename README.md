@@ -45,7 +45,26 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 <br>
 
 ### _My Skills:_
-<img alt="Static Badge" src="https://img.shields.io/badge/MS%20Azure-blue?style=for-the-badge"> ![Static Badge](https://img.shields.io/badge/Tenable-black?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/MS%20Sentinal-lightblue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/MS_Defender-%234682b4?style=for-the-badge&logo=MS-Defender&logoColor=%234682b4&labelColor=%234682b4&color=%234682b4) ![Static Badge](https://img.shields.io/badge/KQL-%238a2be2?style=for-the-badge&logo=KQL&logoColor=%238a2be2&labelColor=%238a2be2&color=%238a2be2) ![Static Badge](https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/Excel-%2368BC71?style=for-the-badge&logo=excel&logoColor=black) ![Static Badge](https://img.shields.io/badge/Word-%233B66BC?style=for-the-badge&logo=word&logoColor=black) ![Static Badge](https://img.shields.io/badge/Outlook-%230DBDFF?style=for-the-badge&logo=outlook&logoColor=white) ![Static Badge](https://img.shields.io/badge/PowerPoint-%23FF9E0F?style=for-the-badge&logo=powerpoint&logoColor=black) ![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=white) ![Static Badge](https://img.shields.io/badge/VMWare-%23607078?style=for-the-badge&logo=vmware&logoColor=white) ![Static Badge](https://img.shields.io/badge/FreeCodeCamp-%230A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white) ![Static Badge](https://img.shields.io/badge/Wix-%230C6EFC?style=for-the-badge&logo=wix&logoColor=white) ![Static Badge](https://img.shields.io/badge/Apple-%23000000?style=for-the-badge&logo=apple&logoColor=white) ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MS%20Azure-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/MS%20Sentinal-lightblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/MS_Defender-%234682b4?style=for-the-badge&logo=MS-Defender&logoColor=%234682b4&labelColor=%234682b4&color=%234682b4) 
+![Static Badge](https://img.shields.io/badge/Tenable-%230C6EFC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/KQL-%238a2be2?style=for-the-badge&logo=KQL&logoColor=%238a2be2&labelColor=%238a2be2&color=%238a2be2) 
+![Static Badge](https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css) 
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/Excel-%2368BC71?style=for-the-badge&logo=excel&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/Word-%233B66BC?style=for-the-badge&logo=word&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/Outlook-%230DBDFF?style=for-the-badge&logo=outlook&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/PowerPoint-%23FF9E0F?style=for-the-badge&logo=powerpoint&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/VMWare-%23607078?style=for-the-badge&logo=vmware&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/FreeCodeCamp-green?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Wix-%230C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
 
