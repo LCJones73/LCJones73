@@ -4,13 +4,12 @@
 
 <p align="center" width="150px" dir="auto">
   I am currently a <b>Cybersecurity Analyst Intern </b> at
-  <b>The Cyber Range</b>. <br>
-  I am studying <b>Cybersecurity</b>, gaining lots of real world hands on experience in this field</b>. <br>
-  I also love <b>Technology</b> as a creative outlet and listening to podcasts like CyberWire Daily and Darknet Diaries
+  <b>The Cyber Range</b>.<BR>
 
 <p align="center">
   <em>*Securing Systems is more than a job - it's a mission*</em>
-
+ 
+  Hello, I'm CJ and I'm a<b>Cybersecurity Enthusiast</b>, and hands-on learner passionate about defending the digital frontier. I’m currently deep-diving into offensive and defensive security, from malware analysis to threat detection with tools like Kali Linux, Azure Sentinel, and Tenable.<BR><BR>
 </p>
 
 <p align="center">
@@ -18,6 +17,8 @@
 <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-My%20VLog-red">
 <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/Resume-Portfolio-blue">
 </p>
+
+ <!-- I share my journey, projects, and tutorials on YouTube and my blog — aimed at helping others on a journey to break into cybersecurity through practical learning. -->
 
 <H1 align="center">My IT and Cybersecurity Project Portfolio</H1>
 
