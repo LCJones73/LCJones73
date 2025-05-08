@@ -48,7 +48,9 @@ This is __My Site__ which showcases my interest in technology and provides a spa
   ![snake gif](https://github.com/LCJones73/LCJones73/blob/output/github-snake.svg)
   
 </div>
-  
+
+![CyberIIonSentryBLACK-ezgif com-crop](https://github.com/user-attachments/assets/eb5258c7-3206-41a8-b806-1522e14c978d)
+
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
