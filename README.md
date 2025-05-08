@@ -27,6 +27,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)**
 
+## :closed_book: Additional Threat Hunting and Scenario Projects
+
 <hr/>
 <p align="center">
 <a href="https://im4u73.wixsite.com/cyberiion-sentry" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/CyberIIon-Sentry-blue?style=for-the-badge">
