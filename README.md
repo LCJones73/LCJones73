@@ -60,14 +60,14 @@ This is __My Site__ which showcases my interest in technology and provides a spa
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/VMWare-%23607078?style=for-the-badge&logo=vmware&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/FreeCodeCamp-green?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Github-%23CE2029?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Wix-%230C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### _My Certifications:_
-![Static Badge](https://img.shields.io/badge/Network+-%23FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)
 
 <div align="center">
 
