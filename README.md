@@ -29,6 +29,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## :closed_book: Additional Threat Hunting Scenario Projects
 
+- **[Threat Hunting Scenario 1: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunt-Scenario-1)**
+
 <hr/>
 <p align="center">
 <a href="https://im4u73.wixsite.com/cyberiion-sentry" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/CyberIIon-Sentry-blue?style=for-the-badge">
