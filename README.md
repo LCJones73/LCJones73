@@ -39,7 +39,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Additional_Threat_Hunting_Scenario_Projects-active-red)
 
-- **[Threat Hunting Scenario: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunt-Scenario-1)**
+- **[Threat Hunting Scenario: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunting-Scenario-Internet-Facing-VMs/blob/main/README.md)**
 - **[Threat Hunting Scenario: Network Performance  Degradation](https://github.com/LCJones73/Threat-Hunting-Scenario-Network-Performance-Degradation/blob/main/README.md)**
 
 <hr/>
