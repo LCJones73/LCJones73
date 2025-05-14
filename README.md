@@ -41,6 +41,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunting-Scenario-Internet-Facing-VMs/blob/main/README.md)**
 - **[Threat Hunting Scenario: Network Performance  Degradation](https://github.com/LCJones73/Threat-Hunting-Scenario-Network-Performance-Degradation/blob/main/README.md)**
+- **[Threat Hunting Scenario: Suspected Data Exfiltration](https://github.com/LCJones73/Suspected-Data-Exfiltration/blob/main/README.md)**
 
 <hr/>
 <p align="center">
