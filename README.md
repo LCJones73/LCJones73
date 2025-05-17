@@ -30,7 +30,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![Threat Map Projects](https://img.shields.io/badge/Azure_KQL_Threat_Map_Projects-active-purple)
 
-- **[Threat Maps Creating Deep Dive](https://github.com/LCJones73/Threat-Maps-Creating-Deep-Dive)**<BR><BR>
+- **[Threat Maps Creation Deep Dive](https://github.com/LCJones73/Threat-Maps-Creating-Deep-Dive)**<BR><BR>
  
 <!-- Code below for when I complete these projects - remove the symbols before and at end of code -->
 <!-- This is a hidden note or comment in Markdown - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**<BR><BR> -->
