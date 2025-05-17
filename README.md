@@ -36,6 +36,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <!-- This is a hidden note or comment in Markdown - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**<BR><BR> -->
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Threat_Hunting_&_Security_Operations_Main_Internship_Project-active-red)
+
 - ### Coming Soon!
 
 <!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)** -->
