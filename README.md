@@ -28,7 +28,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**<BR><BR>
 
-![Threat Map Projects](https://img.shields.io/badge/Threat_Map_Projects-active-purple)
+![Threat Map Projects](https://img.shields.io/badge/Azure_KQL_Threat_Map_Projects-active-purple)
 
 - ### Coming Soon!<BR><BR>
  
