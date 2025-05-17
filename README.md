@@ -30,14 +30,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![Threat Map Projects](https://img.shields.io/badge/Threat_Map_Projects-active-purple)
 
-- ### Coming Soon!<BR>
+- ### Coming Soon!<BR><BR>
  
 <!-- Code below for when I complete these projects - remove the symbols before and at end of code -->
 <!-- This is a hidden note or comment in Markdown - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**<BR><BR> -->
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Threat_Hunting_&_Security_Operations_Main_Internship_Project-active-red)
 
-- ### Coming Soon!
+- ### Coming Soon!<BR><BR>
 
 <!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)** -->
 
