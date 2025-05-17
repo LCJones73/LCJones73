@@ -7,7 +7,7 @@
   <b>The Cyber Range</b>.<BR>
 
 <p align="center">
-  <em>*Securing Systems is more than a job - it's a mission*</em><BR><BR>
+  <em>*Securing Systems is more than a job - it's a mission*</em><BR>
   <em>*Life will always present challenges, iit's how you face them that matters, not that you have them!*</em>
  
   Hello, I'm CJ and I'm a<b>Cybersecurity Enthusiast</b>, and hands-on learner passionate about defending the digital frontier. I’m currently deep-diving into offensive and defensive security, from malware analysis to threat detection with tools like Kali Linux, Azure Sentinel, and Tenable.<BR><BR>
