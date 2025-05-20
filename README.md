@@ -59,7 +59,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 _CyberIIon Sentry_ is my website which showcases my interest in technology and provides a space to share what I'm learning in the field of Cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
 
 ### _My Certifications:_
-![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#CompTia-Network-Certification)
 ![Static Badge](https://img.shields.io/badge/ISC2_CC-%23468145?style=for-the-badge&logo=isc2&logoColor=black)
 
 ### _My Skills:_
