@@ -25,11 +25,11 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!<BR><BR>
 
-![Tenable Vulnerability Management Projects](https://img.shields.io/badge/Vulnerability_Management_Projects-active-brightgreen)
+![Tenable Vulnerability Management Projects](https://img.shields.io/badge/Vulnerability_Management_Projects_(Nessus_Tenable)-active-brightgreen)
 
 - **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**<BR><BR>
 
-![Threat Map Projects](https://img.shields.io/badge/Azure_KQL_Threat_Map_Projects-active-purple)
+![Threat Map Projects](https://img.shields.io/badge/Azure_KQL_Threat_Map_Projects_(Microsoft_Sentinel)-active-purple)
 
 - **[Threat Maps Creation (Deep Dive)](https://github.com/LCJones73/Threat-Maps-Creating-Deep-Dive)**<BR>
 - **[Threat Maps: Successful & Failed Logins (Breaking Down the Code)](https://github.com/LCJones73/Threat-Map-Authentication-Success-Failures/blob/main/README.md)**<BR>
@@ -41,7 +41,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <!-- - **[Threat Hunting Scenario (Tor Browser Usage)](https:Link Coming soon when Project is completed)** -->
 
-![Threat Hunting & Security Operations](https://img.shields.io/badge/Additional_Threat_Hunting_Scenario_Projects-active-red)
+![Threat Hunting & Security Operations](https://img.shields.io/badge/Threat_Hunting_Scenario_Projects_(Microsoft_Defender)-active-red)
 
 - **[Threat Hunting Scenario: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunting-Scenario-Internet-Facing-VMs/blob/main/README.md)**
 - **[Threat Hunting Scenario: Network Performance  Degradation](https://github.com/LCJones73/Threat-Hunting-Scenario-Network-Performance-Degradation/blob/main/README.md)**
