@@ -58,7 +58,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 _CyberIIon Sentry_ is my website which showcases my interest in technology and provides a space to share what I'm learning in the field of Cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
 
-### _My Certifications 
+### _My Certifications_
 
 Each badge is a link to my "Certification":
 
