@@ -60,7 +60,7 @@ _CyberIIon Sentry_ is my website which showcases my interest in technology and p
 
 ### _My Certifications_
 
-Each badge is a link to my "Certification":
+Each badge is a link to my corresponding Certification:
 
 [![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#CompTia-Network-Certification)
 [![Static Badge](https://img.shields.io/badge/ISC2_CC-%23468145?style=for-the-badge&logo=isc2&logoColor=black)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#ISC2-Certified-in-Cybersecurity-Certification)
