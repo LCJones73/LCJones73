@@ -34,7 +34,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Part 1 Threat Maps Creation (Deep Dive)](https://github.com/LCJones73/Threat-Maps-Creating-Deep-Dive)**<BR>
 - **[Part 2 Threat Maps: Successful & Failed Logins](https://github.com/LCJones73/Threat-Map-Authentication-Success-Failures/blob/main/README.md)**<BR>
 - **[Part 3 Threat Maps: User (Caller) Creation Events](https://github.com/LCJones73/Threat-Map-Successful-Creation-Events/blob/main/README.md)**<BR>
-- **[Part 4 Threat Maps: VM Authentication Failures](https://github.com/LCJones73/VM-Authentication-Failures/blob/main/README.md)**<BR><BR>
+- **[Part 4 Threat Maps: VM Authentication Failures](https://github.com/LCJones73/VM-Authentication-Failures/blob/main/README.md)**<BR>
+- **[Part 5 Threat Maps: Malicious Traffic Entering the Network](https://github.com/LCJones73/Malicious-Traffic-Entering-the-Network/blob/main/README.md)**<BR><BR>
  
 <!-- Code below for when I complete these projects - remove the symbols before and at end of code -->
 <!-- This is a hidden note or comment in Markdown - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**<BR><BR> -->
