@@ -33,8 +33,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Maps Creation (Deep Dive)](https://github.com/LCJones73/Threat-Maps-Creating-Deep-Dive)**<BR>
 - **[Threat Maps: Successful & Failed Logins (Breaking Down the Code)](https://github.com/LCJones73/Threat-Map-Authentication-Success-Failures/blob/main/README.md)**<BR>
-- **[Threat Maps: User (Caller) Creation Events](https://github.com/LCJones73/Threat-Map-Successful-Creation-Events/blob/main/README.md)**<BR><BR>
-
+- **[Threat Maps: User (Caller) Creation Events](https://github.com/LCJones73/Threat-Map-Successful-Creation-Events/blob/main/README.md)**<BR>
+- **[Threat Maps: VM Authentication Failures](https://github.com/LCJones73/VM-Authentication-Failures/blob/main/README.md)**<BR><BR>
  
 <!-- Code below for when I complete these projects - remove the symbols before and at end of code -->
 <!-- This is a hidden note or comment in Markdown - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https:Link Coming soon when Project is completed)**<BR><BR> -->
