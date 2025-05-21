@@ -32,7 +32,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ![Threat Map Projects](https://img.shields.io/badge/Azure_KQL_Threat_Map_Projects_(Microsoft_Sentinel)-active-purple)
 
 - **[Part 1 Threat Maps Creation (Deep Dive)](https://github.com/LCJones73/Threat-Maps-Creating-Deep-Dive)**<BR>
-- **[Part 2 Threat Maps: Successful & Failed Logins (Breaking Down the Code)](https://github.com/LCJones73/Threat-Map-Authentication-Success-Failures/blob/main/README.md)**<BR>
+- **[Part 2 Threat Maps: Successful & Failed Logins](https://github.com/LCJones73/Threat-Map-Authentication-Success-Failures/blob/main/README.md)**<BR>
 - **[Part 3 Threat Maps: User (Caller) Creation Events](https://github.com/LCJones73/Threat-Map-Successful-Creation-Events/blob/main/README.md)**<BR>
 - **[Part 4 Threat Maps: VM Authentication Failures](https://github.com/LCJones73/VM-Authentication-Failures/blob/main/README.md)**<BR><BR>
  
