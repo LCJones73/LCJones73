@@ -46,7 +46,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario: Internet Facing VM's](https://github.com/LCJones73/Threat-Hunting-Scenario-Internet-Facing-VMs/blob/main/README.md)**
 - **[Threat Hunting Scenario: Network Performance  Degradation](https://github.com/LCJones73/Threat-Hunting-Scenario-Network-Performance-Degradation/blob/main/README.md)**
-- **[Threat Hunting Scenario: Suspected Data Exfiltration](https://github.com/LCJones73/Suspected-Data-Exfiltration/blob/main/README.md)**<BR><BR>
+- **[Threat Hunting Scenario: Suspected Data Exfiltration](https://github.com/LCJones73/Suspected-Data-Exfiltration/blob/main/README.md)**
+- **[Threat Hunting Scenario: New Zero Day Announced](https://github.com/LCJones73/Threat-Hunt-New-Zero-Day-Announced)**<BR><BR>
+
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Main_Internship_Projects-active-blue)
 
