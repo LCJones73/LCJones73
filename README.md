@@ -10,7 +10,7 @@
   <em>*Securing Systems is more than a job - it's a mission*</em><BR><BR>
   <em>*Life will always present challenges, it's how you face them that matters, not that you have them!*</em>
  
-  Hello, I'm CJ and I'm a <b>Cybersecurity Enthusiast</b>, and hands-on learner passionate about defending the digital frontier. I’m currently deep-diving into offensive and defensive security, from malware analysis to threat detection with tools like Kali Linux, Azure Sentinel, and Tenable.<BR><BR>
+  Hello, I'm CJ and I'm a <b>Cybersecurity Enthusiast</b>, and hands-on learner passionate about defending the digital frontier. I’m currently deep-diving into offensive and defensive security, from malware analysis to threat detection with tools like Kali Linux, MS Azure, Sentinel, Defender and Tenable.<BR><BR>
 </p>
 
 <p align="center">
