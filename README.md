@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://im4u73.wixsite.com/cyberiion-sentry/blog" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/Wix-My%20BLog-green">
-<a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-My%20VLog-red">
+<a href="https://www.youtube.com/@CypherJack_73" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-My%20VLog-red">
 <a href="https://www.linkedin.com/in/leonard-jones-2a2b852a/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/Resume-Portfolio-blue">
 </p>
 
