@@ -62,6 +62,38 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 _CyberIIon Sentry_ is my website which showcases my interest in technology and provides a space to share what I'm learning in the field of Cybersecurity. Whether you prefer reading or watching, this is a mix of blog and vlog content to match how you like to learn.
 
+Below is my 4 part YouTube series chronicling my journey into Cybersecurity. Starting with getting introduced to technology at an early age and exploring my growth and learning in coding, networking and Cybersecurity.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/-FqS_sQJi1I" target="_blank">
+        <img src="https://img.youtube.com/vi/-FqS_sQJi1I/0.jpg" width="200" />
+        <br/>The Journey Pt.1
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/IKKXBhVP0eo" target="_blank">
+        <img src="https://img.youtube.com/vi/IKKXBhVP0eo/0.jpg" width="200" />
+        <br/>The Journey Pt.2
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/9x29kEup6aw" target="_blank">
+        <img src="https://img.youtube.com/vi/9x29kEup6aw/0.jpg" width="200" />
+        <br/>The Journey Pt.3
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/TiMSwTMH_8M" target="_blank">
+        <img src="https://img.youtube.com/vi/TiMSwTMH_8M/0.jpg" width="200" />
+        <br/>The Journey Pt.4
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ### _My Certifications:_
 
 Each badge is a link to my corresponding certification
