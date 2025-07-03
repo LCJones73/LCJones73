@@ -132,6 +132,7 @@ Each badge is a link to my corresponding certification
 ![Static Badge](https://img.shields.io/badge/FreeCodeCamp-green?style=for-the-badge&logo=freecodecamp&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/YouTube-%23CE2029?style=for-the-badge&logo=youtube&logoColor=black)
 
 <div align="center">
 
