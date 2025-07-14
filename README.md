@@ -8,8 +8,8 @@
 
 <p align="center">
   <em>*Securing Systems is more than a job - it's a mission*</em><BR><BR>
-  <em>*Life will always present challenges, it's how you face them that matters, not that you have them!*</em><BR><BR>
-  <em>*When hiring, choose people who care. - Skills can be learned. A good attitude can't.*</em>
+  <em>*When hiring, choose people who care. - Skills can be learned. A good attitude can't.*</em><BR><BR>
+  <em>*Life will always present challenges, it's how you face them that matters, not that you have them!*</em>
  
   Hello, I'm CJ and I'm a <b>Cybersecurity Enthusiast</b>, and hands-on learner passionate about defending the digital frontier. I’m currently deep-diving into offensive and defensive security, from malware analysis to threat detection with tools like MS Azure, Sentinel, Defender, Tenable and Kali Linux.<BR><BR>
 </p>
