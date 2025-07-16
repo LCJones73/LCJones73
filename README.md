@@ -8,6 +8,7 @@
 
 <p align="center">
   <em>*Securing Systems is more than a job - it's a mission*</em><BR><BR>
+  <em>*Cybersecurity is not an IT issue alone. It’s a human issue -Emily Davis (MSN)!*</em><BR><BR>
   <em>*When hiring, choose people who care. - Skills can be learned. A good attitude can't.*</em><BR><BR>
   <em>*Life will always present challenges, it's how you face them that matters, not that you have them!*</em>
  
