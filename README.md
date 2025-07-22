@@ -62,9 +62,34 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <a href="https://im4u73.wixsite.com/YouTube-Tutorials" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-Cybersecurity-red?style=for-the-badge">
 </a></p>
 
-<p align="center">
-Coming Soon
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/IAcVtpNkNlk?si=iz3rFpm2l0eWOWe3" target="_blank">
+        <img src="https://github.com/user-attachments/assets/5706cf24-7297-46b3-93b9-fbeb579c2639" width="200" />
+        <br/>Ransomware
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/IKKXBhVP0eo" target="_blank">
+        <img src="https://github.com/user-attachments/assets/0a68d6d5-8343-41db-83d5-89c5af098959" width="200" />
+        <br/>VM: Unauthenticated Scan
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/386l5blslo4?si=ohh_YpoQDOJQ0kXp" target="_blank">
+        <img src="https://github.com/user-attachments/assets/fb8992ef-731a-451e-a7e1-a2c895a74235" width="200" />
+        <br/>VM: Part II Coming 7/22/25
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/TiMSwTMH_8M" target="_blank">
+        <img src="https://github.com/user-attachments/assets/5a007aea-c0fe-4721-8e72-717be35e8107" width="200" />
+        <br/>VM: Part III Coming 7/29/25
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 <p align="center">
