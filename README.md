@@ -77,13 +77,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
       </a>
     </td>
     <td align="center">
-      <a href="https://youtu.be/386l5blslo4?si=ohh_YpoQDOJQ0kXp" target="_blank">
+      <a href="INSERT LINK HERE" target="_blank">
         <img src="https://github.com/user-attachments/assets/fb8992ef-731a-451e-a7e1-a2c895a74235" width="200" />
         <br/>VM: Part II Coming 7/22/25
       </a>
     </td>
     <td align="center">
-      <a href="https://youtu.be/TiMSwTMH_8M" target="_blank">
+      <a href="INSERT LINK HERE" target="_blank">
         <img src="https://github.com/user-attachments/assets/5a007aea-c0fe-4721-8e72-717be35e8107" width="200" />
         <br/>VM: Part III Coming 7/29/25
       </a>
