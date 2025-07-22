@@ -27,6 +27,8 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!<BR><BR>
 
+![Threat Hunting & Security Operations](https://img.shields.io/badge/Main_Internship_Projects-active-blue)
+
 ![Tenable Vulnerability Management Projects](https://img.shields.io/badge/Vulnerability_Management_Projects_(Tenable_Nessus)-active-brightgreen)
 
 - **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**<BR><BR>
@@ -53,9 +55,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![Incident Response Labs](https://img.shields.io/badge/Incident_Response_Labs_(Microsoft_Sentinel)-active-red)
 
-<!-- ![Threat Hunting & Security Operations](https://img.shields.io/badge/Main_Internship_Projects-active-blue) -->
-
-- ### Coming Soon!<BR><BR>
+- #### Coming Soon!<BR><BR>
 
 <hr/>
 <p align="center">
