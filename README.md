@@ -73,13 +73,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
     <td align="center">
       <a href="https://youtu.be/IKKXBhVP0eo" target="_blank">
         <img src="https://github.com/user-attachments/assets/0a68d6d5-8343-41db-83d5-89c5af098959" width="200" />
-        <br/>VM: Unauthenticated Scan
+        <br/>VM: Unauthenticated Scans
       </a>
     </td>
     <td align="center">
-      <a href="INSERT LINK HERE" target="_blank">
+      <a href="https://youtu.be/HW3XsEEUNmE" target="_blank">
         <img src="https://github.com/user-attachments/assets/fb8992ef-731a-451e-a7e1-a2c895a74235" width="200" />
-        <br/>VM: Part II Coming 7/22/25
+        <br/>VM: Authenticated Scans
       </a>
     </td>
     <td align="center">
