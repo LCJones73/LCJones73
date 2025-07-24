@@ -29,7 +29,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Main_Internship_Projects-active-blue)
 
-- **[Vulnerability Management Program Implementation](https://github.com/LCJones73/Vulnerability_Management_Program)**<BR><BR>
+- **[Threat Hunt Scenario - Tor](https://github.com/LCJones73/Threat-Hunting-Scenario---Tor)**<BR><BR>
 
 ![Tenable Vulnerability Management Projects](https://img.shields.io/badge/Vulnerability_Management_Projects_(Tenable_Nessus)-active-brightgreen)
 
