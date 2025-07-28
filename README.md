@@ -25,7 +25,7 @@
 
 <H1 align="center">My IT and Cybersecurity Project Portfolio</H1>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!<BR><BR>
+I have 6 years of experience in a IT Helpdesk role. I'm passionate about IT & cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!<BR><BR>
 
 ![Threat Hunting & Security Operations](https://img.shields.io/badge/Main_Internship_Projects-active-blue)
 
