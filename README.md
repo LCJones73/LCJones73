@@ -85,9 +85,9 @@ I have 6 years of experience in a IT Helpdesk role. I'm passionate about IT & cy
       </a>
     </td>
     <td align="center">
-      <a href="INSERT LINK HERE" target="_blank">
+      <a href="https://youtu.be/ROoy8WbThA4?si=7TAqBIp84YtCuT9A" target="_blank">
         <img src="https://github.com/user-attachments/assets/5a007aea-c0fe-4721-8e72-717be35e8107" width="200" />
-        <br/>VM: Part III Coming 7/29/25
+        <br/>VM: DISA STIG Scan
       </a>
     </td>
   </tr>
