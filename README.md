@@ -57,7 +57,7 @@ I have 6 years of experience in a IT Helpdesk role. I'm passionate about IT & cy
 
 ![Python Projects](https://img.shields.io/badge/Python_Coding_Projects-active-yellow)
 
-- #### Coming Soon!<BR><BR>
+- **[Python Code: Rock, Paper, Scissors Game](https://github.com/LCJones73/Python-Project-Rock-Paper-Scissors-Game/blob/main/README.md)**
 
 <hr/>
 <p align="center">
