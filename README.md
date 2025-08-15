@@ -154,7 +154,7 @@ Each badge is a link to my corresponding certification
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Static Badge](https://img.shields.io/badge/Wix-%230C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MarkDown-%23008080?style=for-the-badge&logo=markdown&logoColor=black) 
-![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) 
 ![Static Badge](https://img.shields.io/badge/Github-%23CE2029?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VMWare-%23607078?style=for-the-badge&logo=vmware&logoColor=black) 
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=black) 
