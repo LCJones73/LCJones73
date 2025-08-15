@@ -55,7 +55,7 @@ I have 6 years of experience in a IT Helpdesk role. I'm passionate about IT & cy
 - **[Threat Hunting Scenario: Suspected Data Exfiltration](https://github.com/LCJones73/Suspected-Data-Exfiltration/blob/main/README.md)**
 - **[Threat Hunting Scenario: New Zero Day Announced](https://github.com/LCJones73/Threat-Hunt-New-Zero-Day-Announced)**<BR><BR>
 
-![Incident Response Labs](https://img.shields.io/badge/Incident_Response_Labs_(Microsoft_Sentinel)-active-red)
+![Python Projects](https://img.shields.io/badge/Python_Coding_Projects-active-yellow)
 
 - #### Coming Soon!<BR><BR>
 
