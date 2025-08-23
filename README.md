@@ -4,7 +4,7 @@
 
 <p align="center" width="150px" dir="auto">
   I am currently a <b>Cybersecurity Analyst Intern </b> at
-  <b>The Cyber Range</b>.<BR>
+  <b>Log(N) Pacific</b>.<BR>
 
 <p align="center">
   <em>*Securing Systems is more than a job - it's a mission*</em><BR><BR>
