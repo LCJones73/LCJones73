@@ -137,7 +137,12 @@ Below is my 4 part YouTube series chronicling my journey into Cybersecurity. Sta
 Each badge is a link to my corresponding certification
 
 [![Static Badge](https://img.shields.io/badge/Network+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#CompTia-Network-Certification)
+[![Static Badge](https://img.shields.io/badge/A+-%23CE2029?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#CompTia-A+-Certification)
 [![Static Badge](https://img.shields.io/badge/ISC2_CC-%23468145?style=for-the-badge&logo=isc2&logoColor=black)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#ISC2-Certified-in-Cybersecurity-Certification)
+[![Static Badge](https://img.shields.io/badge/%20Dell_Tech-blue?style=for-the-badge&logo=Dell&logoColor=black)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#Dell_Technician)
+[![Static Badge](https://img.shields.io/badge/%20HP_Tech-lightblue?style=for-the-badge&logo=HP&logoColor=black)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#HP_Technician)
+[![Static Badge](https://img.shields.io/badge/%20Lenovo_Tech-%23CE2029?style=for-the-badge&logo=Lenovo&logoColor=black)](https://github.com/LCJones73/Certifications?tab=readme-ov-file#Lenovo_Technician)
+![Static Badge](https://img.shields.io/badge/Apple_Tech-white?style=for-the-badge&logo=apple&logoColor=black)
 
 ### _My Skills:_
 ![Static Badge](https://img.shields.io/badge/MS%20Azure-blue?style=for-the-badge)
